@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+        <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="726">
+</p>
 
-<!--
-**YpsilonXX/YpsilonXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h1>
+  Hey! What's up!👋
+</h1>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ # My stats:
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=YpsilonXX&theme=dark)](https://git.io/streak-stats)
+
+
+
